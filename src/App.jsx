@@ -85,7 +85,7 @@ function App() {
             <footer className="footer mt-auto py-3">
               <div className="container text-center">
                 <span>
-                  © {new Date().getFullYear()} Calculadora de IMC desenvolvido por DEIVE SILVA. Todos os direitos
+                  © {new Date().getFullYear()} Calculadora de IMC desenvolvido por DEIVE SILVA. <br /> Todos os direitos
                   reservados.
                 </span>
               </div>
