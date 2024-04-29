@@ -1,0 +1,15 @@
+/* src/App.css */
+* {
+  background-color:#0A0A2A;
+  color: #EFFBFB;
+}
+
+label {
+  text-transform: uppercase;
+}
+
+span .text-muted {
+  color: #EFFBFB;
+}
+
+
